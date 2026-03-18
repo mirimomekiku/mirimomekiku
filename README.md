@@ -5,7 +5,7 @@
 ### 💫 About Me
 I am a passionate developer from the **Philippines** building high-performance web and mobile experiences.
 
-- 🔭 I’m currently working on a **Game Tracking Application**.
+- 🔭 I’m currently working on an **AI-Assisted LMS/Barangay Management System/Game Tracking Application/WHIPO**.
 - 🌱 Mastering **Kotlin** and **Jetpack Compose** for modern Android development.
 - ⚡ Deep-diving into **Flutter** state management (GetX/MVC).
 - 🎮 Fun fact: I love pixel art and game design.
