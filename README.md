@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 48px;"><strong>Full-Stack Developer</strong></p>
+  <h1 style="font-size: 48px;"><strong>Software Developer</strong></p>
 </div>
 
 ### 💫 About Me
