@@ -7,7 +7,6 @@ I am a passionate developer from the **Philippines** building high-performance w
 
 - 🔭 I’m currently working on **AdaptiveHub/WHIPO**.
 - 🌱 Mastering **Kotlin** and **Jetpack Compose** for modern Android development.
-- ⚡ Currently transitioning to **DevOps** role.
 - 🎮 Fun fact: I love pixel art and game design.
 
 ---
